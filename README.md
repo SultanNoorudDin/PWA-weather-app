@@ -3,6 +3,9 @@
 
 **Title:** Simple Weather App in React.js
 
+# App deployed :
+https://sultannooruddin-pwa-webapp.netlify.app/
+
 **Description:**
 
 This React.js application allows you to search for the weather in any city around the world, powered by the OpenWeatherMap API. Simply enter a city name or zip code in the search bar, and the app will display the current temperature, weather conditions, and an icon.
